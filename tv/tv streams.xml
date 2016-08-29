@@ -1,0 +1,478 @@
+<item>  
+<title>[COLOR White][B] RTP 1 [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+ </item>
+ 
+<item>
+<title>[COLOR=white][B] RTP 2 [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+ </item>
+ 
+<title>[COLOR=white][B] RTP 3 [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
+ <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] SIC [/B][/COLOR] [COLOR red] off [/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/SIC813747234/1/565/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</regex>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] SIC [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] TVI [/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link><thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</item>
+ 
+<title>[COLOR white][B] TVI [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] SIC NOTICIAS [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] TVI 24 [/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] TVI 24[/B][/COLOR]</title>
+<link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
+ 
+<title>[COLOR=white][B] RTP AÇORES [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] RTP AÇORES [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] RTP ÁFRICA [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] RTP ÁFRICA [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] RTP MADEIRA [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B] RTP MADEIRA [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/mj7fyu9tp/rtp_madeira.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] RTP MEMÓRIA [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+<item>
+<title>[COLOR=white][B] RTP MEMÓRIA [/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://s20.postimg.org/j0vg2g8xp/rtp_memoria.png</thumbnail>
+</item>
+ 
+<item>
+<title>[COLOR=white][B] RTP INTERNACIONAL [/B][/COLOR]</title>
+<link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
+</item>
+ 
+  <item>
+            <title>[COLOR=white][B]Sic Mulher[/B][/COLOR] [COLOR=red] off [/COLOR]</title>
+            <link>http://$doregex[ip]$doregex[m3u8]</link>
+            <regex>
+                <name>ip</name>
+                <expres>redirect=(.*)</expres>
+                <page>http://www.pubucaster.com:1935/loadbalancer</page>
+            </regex>
+            <regex>
+                <name>m3u8</name>
+                <expres>ea \+ "(.*?)"</expres>
+                <page>http://www.embeducaster.com/membedplayer/sicm02/1/599/399</page>
+                <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                <referer>http://www.embeducaster.com/</referer>
+                <thumbnail>http://s20.postimg.org/g97ky3l19/sicm_ver3.png</thumbnail>
+            </regex>
+        </item>
+		
+<item>
+<title>[COLOR white] [B] Sic Radical [/B][/COLOR] [COLOR red] On [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts&amp;name=Kodiptvsharing</link>
+<thumbnail>http://s20.postimg.org/s14n0duf1/sic_radical.png</thumbnail>
+</item>
+
+        <item>
+            <title>[COLOR=white][B]Sic Radical [/B][/COLOR] [COLOR red] off [/COLOR]</title>
+            <link>http://$doregex[ip]$doregex[m3u8]</link>
+            <regex>
+                <name>ip</name>
+                <expres>redirect=(.*)</expres>
+                <page>http://www.pubucaster.com:1935/loadbalancer</page>
+            </regex>
+            <regex>
+                <name>m3u8</name>
+                <expres>ea \+ "(.*?)"</expres>
+                <page>http://www.embeducaster.com/membedplayer/sicradicalx/1/650/500</page>
+                <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                <referer>http://www.embeducaster.com/</referer>
+                <thumbnail>http://s20.postimg.org/s14n0duf1/sic_radical.png</thumbnail>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Tvi Ficção[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embedezcast.com/membedplayer/tvicrl/1/599/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embedezcast.com</referer>
+<thumbnail>http://s20.postimg.org/uypdx4qpp/tvi.jpg</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Tvi Reality[/B][/COLOR] [COLOR red] off [/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.streamifypublisher.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.streamifyplayer.com/membedplayer/TviReality2/1/545/440</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.streamifyplayer.com</referer>
+                    <thumbnail>http://s20.postimg.org/srxd65wsd/tvi_Reality.jpg</thumbnail>
+                </regex>
+            </item>
+<item>
+<title>[COLOR white] [B] TVI REALITY [/B][/COLOR] [COLOR lime] Alternativo [/COLOR] </title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2050.ts&amp;name=Kodiptvsharing</link>
+<thumbnail>http://s20.postimg.org/srxd65wsd/tvi_Reality.jpg</thumbnail>
+</item>
+			
+			<item>
+<title>[COLOR=white][B] ECONÓMICO TV [/B][/COLOR]</title>
+<link>http://213.13.26.41:1935/live/etv_direto/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/45t2j1v7h/etv_pt.png</thumbnail>
+</item>
+ 
+ <item>
+                <title>[COLOR=white][B]Porto Canal[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/portocanalv/1/599/399</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+                    <thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail></thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Axn[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/axn1x/1/650/450</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+                    <thumbnail>http://s20.postimg.org/h64tfhhrx/axn1.png</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Axn White[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/axnwhitex/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+                    <thumbnail>http://s20.postimg.org/qcn42rn0d/AXN_White.png</thumbnail>
+                </regex>
+            </item>
+ 
+            <item>
+                <title>[COLOR=white][B]Fox[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embedezcast.com/membedplayer/foxcrl/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embedezcast.com</referer>
+                    <thumbnail>http://s20.postimg.org/z6jpmib7h/FOX.jpg</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Fox Movies[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://cdn.pubezcast.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embedezcast.com/membedplayer/sical/1/599/399</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embedezcast.com</referer>
+                    <thumbnail>http://s20.postimg.org/z6jpmib7h/FOX.jpg</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Fox Crime[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/foxcrimex/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+                    <thumbnail>http://s20.postimg.org/bpqqyudrx/foxcrime.png</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Fox Life[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.liveflashplayer.net/membedplayer/foxlifea/1/599/399</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://s20.postimg.org/rp9eie9tp/foxlife.png</thumbnail>
+                </regex>
+            </item>
+			
+			<item>
+<title>[COLOR white] [B] Hollywood [/B][/COLOR] [COLOR red] alt [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts&amp;name=Kodiptvsharing</link>
+<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
+</item>
+
+            <item>
+                <title>[COLOR=white][B]Hollywood [/B][/COLOR] [COLOR red] off [/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/hollywoodx/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Mtv[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/mtvax/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+                    <thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Discovery[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/discoveryx/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer>
+<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]História[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.liveflashplayer.net/membedplayer/historiab/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.liveflashplayer.net</referer>
+                    <thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
+                </regex>
+            </item>
+            <item>
+                <title>[COLOR=white][B]Odisseia[/B][/COLOR]</title>
+                <link>http://$doregex[ip]$doregex[m3u8]</link>
+                <regex>
+                    <name>ip</name>
+                    <expres>redirect=(.*)</expres>
+                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
+                </regex>
+                <regex>
+                    <name>m3u8</name>
+                    <expres>ea \+ "(.*?)"</expres>
+                    <page>http://www.embeducaster.com/membedplayer/odisseiax/1/650/500</page>
+                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                    <referer>http://www.embeducaster.com/</referer><thumbnail>http://s20.postimg.org/n6ay23w3h/odisseia_ver1.png</thumbnail>
+                </regex>
+            </item>
+			<item>
+<item>
+<title>[COLOR white][B] BOLA TV[/B][/COLOR] [COLOR red] off [/COLOR]</title>
+<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
+<regex>
+<name>get-ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
+<referer>http://www.liveflashplayer.net</referer>
+<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
+</regex>
+</item>
+<item>
+<title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
+<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]TV LISBOA [/B][/COLOR] [COLOR red]OFF[/COLOR]</title>
+<link>http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8</link>
+<thumbnail>http://i.imgur.com/tiLO5Il.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] EURONEWS [/B][/COLOR]</title>
+<link>http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] SIC [/B][/COLOR] [COLOR red] alt [/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8</link>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] SIC [/B][/COLOR] [COLOR red] alt 2 [/COLOR]</title>
+<link>http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/653.ts</link>
+<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] SIC NOTICIAS [/B][/COLOR] [COLOR red] off [/COLOR]</title>
+<link>http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9d/SICNoticias.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] TVcine 1 FHD [/B][/COLOR] [COLOR lime] on [/COLOR]</title>
+<link>http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/654.ts</link>
+<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC1.png</thumbnail>
+</item>
+
+
+
+
+
+
+
+

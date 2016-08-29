@@ -1,0 +1,98 @@
+<item> 
+            <title>[COLOR red] • [COLOR white][B]DESPORTO NACIONAL [/B][/COLOR][COLOR green](RTMP)[/COLOR]</title> 
+   <link>plugin://plugin.video.f4mTester/?url=http://185.73.239.23:8000/live/ESSL/GHGFNBVUD286/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP1</link>
+<thumbnail>https://goo.gl/dG08WL</thumbnail>
+
+<item>  
+<title>[COLOR=white][B] SPORTV 1 [/B][/COLOR]</title>
+<link>rtmp://31.220.40.62/privatestream/ app=privatestream/ playpath=fawergge?keys=6FwFzBwoArVD7GnroNTCwg&keyt=1471185155 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf flashVer=WIN\2020,0,0,267 swfVfy=1 live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fawergge</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail><item>  
+
+
+<item> 
+            <title>[COLOR red] • [COLOR white][B]DESPORTO NACIONAL[/B][/COLOR][COLOR orange](SPORTSDEVILL)[/COLOR]</title> 
+   <link>plugin://plugin.video.f4mTester/?url=http://185.73.239.23:8000/live/ESSL/GHGFNBVUD286/2615.ts&amp;streamtype=TSDOWNLOADER&amp;name=PT: RTP1</link>                
+<thumbnail>https://goo.gl/dG08WL</thumbnail>
+</item>  
+
+<item>
+<title>[COLOR white][B]Sporttv 1 [/B][/COLOR]</title>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv</sportsdevil><referer>http://www.europeu2016.net</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail></item>
+<item
+<title>[COLOR white][B]Sporttv 1[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv</sportsdevil><referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail></item>
+<item>
+<title>[COLOR white][B]Sporttv 1[/B][/COLOR]</title>
+<sportsdevil>http://firstrowas.co///embed/NdTaX9Epd0</sportsdevil>
+<referer>http://firstrowas.co/</referer>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail></item>
+
+<item>
+<title>[COLOR white][B]Sporttv 2[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv2</sportsdevil><referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail></item>
+<item>
+<title>[COLOR white][B]Sporttv 2 [/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv2</sportsdevil><referer>http://www.europeu2016.net</referer>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail></item>
+
+<item>
+<title>[COLOR white][B]Sporttv 3 [/B][/COLOR] [COLOR red] OFF [/COLOR]</title><sportsdevil>http://cdn2.zuuk.org/sporttv3.php</sportsdevil><referer>http://cdn2.zuuk.org/</referer>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail><item><title>[COLOR white][B]Sporttv 3[/B][/COLOR]</title><sportsdevil>http://firstrowsports.ge/?watch/408917/3/watch-xonetv.html</sportsdevil><referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail></item>
+
+<title>[COLOR white][B]Sporttv 5[/B][/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.com/index.php?canal=sporttv4</sportsdevil>
+<referer>http://www.sporttvsonline.com/</referer>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail></item>
+<item>
+<title>[COLOR white][B]Sporttv 5[/B][/COLOR]</title<sportsdevil>http://www.desportonline.net/index.php?canal=sporttv4-2</sportsdevil>
+<referer>http://www.desportonline.net/</referer>
+<thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail></item>
+<item>
+<title>[COLOR white][B]Sporttv 5[/B][/COLOR]</title><sportsdevil>http://www.europeu2016.net/index.php?canal=sporttv4</sportsdevil><referer>http://www.europeu2016.net</referer>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail></item>
+<item<title>[COLOR white][B]Sporttv 5[/B][/COLOR]</title<sportsdevil>http://www.desportonline.net/index.php?canal=sporttv4</sportsdevil><referer>http://www.desportonline.net/</referer>
+<thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail></item>
+
+<item>
+<title>[COLOR white][B]BENFICA TV[/B][/COLOR]</title
+<sportsdevil>http://firstrowas.co///embed/9DOXhIxxsw</sportsdevil>
+<referer>http://mytvfree4.me/</referer>
+<referer>http://firstrowas.co/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item><item>
+<title>[COLOR white][B]BENFICA TV[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.com/index.php?canal=benficatv</sportsdevil><referer>http://firstrowsports.ge/</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B]BENFICA TV[/B][/COLOR]</title<sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil><referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] BTV 1 [/B][/COLOR] [COLOR red] on [/COLOR]</title>
+<link>rtmp://31.220.40.60/privatestream/gergtrg?keys=XYx3cqbMChCPHLfMG6JYCQ&keyt=1470164765 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] BTV 1 [/B][/COLOR] [COLOR red] on [/COLOR]</title>
+<link>rtmp://31.220.40.59/privatestream/gergtrg?keys=uPzcp6nw34Sj6Bnr7ViTYQ&keyt=1470168681 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]Eurosport 1[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.net/index.php?canal=eurosport</sportsdevil><referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]Motors Tv[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.net/index.php?canal=motorstv</sportsdevil><referer>http://www.sporttvsonline.com</referer>
+<thumbnail>http://1.bp.blogspot.com/-iYWUPy6NlJM/TyVbODodDSI/AAAAAAAABLo/09v_wAFoylY/s1600/Motors+TV+logo.png</thumbnail>
+</item>
+
+
+
+
+
+
