@@ -1,0 +1,177 @@
+<channels>
+<channel>
+<name>[COLOR lime] TV [/COLOR] </name>
+<thumbnail>https://goo.gl/dqKRgb</thumbnail>
+<fanart></fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR white] [B] TV STREAMS [/B]  [/COLOR]</title>
+<link>http://Tvstreams</link>
+<externallink>http://goo.gl/m6UEpU</externallink>
+<thumbnail>https://goo.gl/MfN9x6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] TV KIDS [/B]  [/COLOR]</title>
+<link>http://TVTEMP</link>
+<externallink>http://goo.gl/I3bQNg</externallink>
+<thumbnail>https://goo.gl/45pBoc</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] TV DESPORTO [/B]  [/COLOR]</title>
+<link>http://TvDESPORTO</link>
+<externallink>http://goo.gl/YwkJyj</externallink>
+<thumbnail>https://goo.gl/PxiPEy</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] TV CINEMA [/B]  [/COLOR]</title>
+<link>http://cinema</link>
+<externallink>http://goo.gl/4wuCIG</externallink>
+<thumbnail>https://goo.gl/zFFAII</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] TV DE PASSAGEM [/B]  [/COLOR]</title>
+<link>http://Tvpassagem</link>
+<externallink>http://goo.gl/nyvlRz</externallink>
+<thumbnail>https://goo.gl/2yP84P</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B]  [/B]  [/COLOR]</title>
+<link>http://BestIptv</link>
+<externallink>https://</externallink>
+<thumbnail>https://</thumbnail>
+</item>
+
+  <!--Best Iptv Patrocinio-->
+  <!--<externallink>https://goo.gl/GfKt82-->
+  <!--<<thumbnail>https://goo.gl/E9i0vF-->
+ 
+
+
+<item>
+</subchannel>
+</channel>
+<channel>      
+<name> [COLOR lime] FILMES [/COLOR]</name>
+<thumbnail>https://goo.gl/945peM</thumbnail>
+<fanart></fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR white] [B] Filmes Portugueses [/B]  [/COLOR]</title>
+<link>http://kitina</link>
+<externallink>http://goo.gl/8o5rXZ</externallink>
+<thumbnail>https://goo.gl/TlKyFg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Filmes internacionais [/B]  [/COLOR]</title>
+<link>http://inspiraton_links</link>
+<externallink>http://goo.gl/mQlIrJ</externallink>
+<thumbnail>https://goo.gl/LtrxBu</thumbnail>
+</item>
+
+<item>
+</subchannel>
+</channel>
+<channel>      
+<name> [COLOR lime] SERIES [/COLOR]</name>
+<thumbnail>https://goo.gl/KxLDyt</thumbnail>
+<fanart></fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR white] [B]  Series Portuguesas [/B]  [/COLOR]</title>
+<link>http://ipt_lines</link>
+<externallink>http://goo.gl/5ZM0nz</externallink>
+<thumbnail>https://goo.gl/Q8y3A6</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B]  Series Internacionais [/B]  [/COLOR]</title>
+<link>http://ipt_lines</link>
+<externallink>http://pastebin.com/raw/r05QJ9bT</externallink>
+<thumbnail>https://goo.gl/erW4cP</thumbnail>
+</item>
+
+<item>
+</subchannel>
+</channel>
+<channel>      
+<name> [COLOR lime] Animação [/COLOR]</name>
+<thumbnail>https://goo.gl/cMjZXK</thumbnail>
+<fanart></fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR white] [B]  Series [/B]  [/COLOR]</title>
+<link>http://ipt_lines</link>
+<externallink>http://goo.gl/HLvvHJ</externallink>
+<thumbnail>https://goo.gl/f9mpZA</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B]  filmes [/B]  [/COLOR]</title>
+<link>http://ipt_lines</link>
+<externallink>http://goo.gl/iwTZnH</externallink>
+<thumbnail>https://goo.gl/Iaul04</thumbnail>
+</item>
+
+<item>
+</subchannel>
+</channel>
+<channel>      
+<name> [COLOR lime] Listas de Iptv [/COLOR]</name>
+<thumbnail>https://goo.gl/VSq7rs</thumbnail>
+<fanart></fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR white] [B] Kitina [/B]  [/COLOR]</title>
+<link>http://kitina</link>
+<externallink>http://goo.gl/aOLLyX</externallink>
+<thumbnail>http://www.fusaka.com.br/wp-content/uploads/2015/11/Lista-de-Canais-IPTV-M3U-Kitina-Portugal.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Lista Iptv Global [/B]  [/COLOR]</title>
+<link>http://Lista_IPTV_Global_Jonas</link>
+<externallink>http://freetv.ucoz.com.br/Lista_IPTV_Global_Jonas.m3u</externallink>
+<thumbnail>http://iptvglobal.com.br/wp-content/uploads/2015/08/iptvglobalnova3-200x200.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Lista Kodi Portugal [/B]  [/COLOR]</title>
+<link>http://kodiportugal</link>
+<externallink>http://lista.kodiportugal.com</externallink>
+<thumbnail>http://kodiportugal.pt/wp-content/uploads/2016/02/logo300x109-300x109.png</thumbnail>
+</item>
+
+<item>
+</subchannel>
+</channel>
+<channel>      
+<name> [COLOR lime] Desenvolvimento [/COLOR]</name>
+<thumbnail>https://goo.gl/dRXt4q</thumbnail>
+<fanart></fanart>
+</subitem>
+</item>
+
+<item>
+<title>[COLOR white] [B]  desenvolvilmento [/B]  [/COLOR]</title>
+<link>http://ipt_lines</link>
+<externallink>http://pastebin.com/raw/zLfuzBUD</externallink>
+<thumbnail>https://goo.gl/dRXt4q</thumbnail>
+</item>
+
+http://pastebin.com/raw/zLfuzBUD
