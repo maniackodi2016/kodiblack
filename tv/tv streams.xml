@@ -21,10 +21,10 @@
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </regex>
 </item>
- 
+
 <item>
 <title>[COLOR=white][B] SIC [/B][/COLOR]</title>
-<link></link>
+<link>http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8</link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </thumbnail>
 </item>
@@ -109,7 +109,7 @@
 </item>
  
   <item>
-            <title>[COLOR=white][B]Sic Mulher[/B][/COLOR] [COLOR=red] off [/COLOR]</title>
+            <title>[COLOR=white][B]Sic Mulher[/B][/COLOR] [COLOR=lime] ON [/COLOR]</title>
             <link>http://$doregex[ip]$doregex[m3u8]</link>
             <regex>
                 <name>ip</name>
@@ -125,12 +125,6 @@
                 <thumbnail>http://s20.postimg.org/g97ky3l19/sicm_ver3.png</thumbnail>
             </regex>
         </item>
-		
-<item>
-<title>[COLOR white] [B] Sic Radical [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1159.ts&amp;name=Kodiptvsharing</link>
-<thumbnail>http://s20.postimg.org/s14n0duf1/sic_radical.png</thumbnail>
-</item>
 
         <item>
             <title>[COLOR=white][B]Sic Radical [/B][/COLOR] [COLOR red] off [/COLOR]</title>
@@ -166,7 +160,7 @@
                 </regex>
             </item>
             <item>
-                <title>[COLOR=white][B]Tvi Reality[/B][/COLOR] [COLOR red] off [/COLOR]</title>
+                <title>[COLOR=white][B]Tvi Reality[/B][/COLOR] [COLOR lime] ON [/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
                 <regex>
                     <name>ip</name>
@@ -182,11 +176,6 @@
                     <thumbnail>http://s20.postimg.org/srxd65wsd/tvi_Reality.jpg</thumbnail>
                 </regex>
             </item>
-<item>
-<title>[COLOR white] [B] TVI REALITY [/B][/COLOR] [COLOR lime] Alternativo [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/cardsharing/yg4tdh/2050.ts&amp;name=Kodiptvsharing</link>
-<thumbnail>http://s20.postimg.org/srxd65wsd/tvi_Reality.jpg</thumbnail>
-</item>
 			
 			<item>
 <title>[COLOR=white][B] ECONÓMICO TV [/B][/COLOR]</title>
@@ -211,6 +200,18 @@
                     <thumbnail>http://s20.postimg.org/t1r3ka799/Porto_Canal.png</thumbnail></thumbnail>
                 </regex>
             </item>
+
+<item>
+<title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
+<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+<item>
+<title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
+<link></link>http://213.13.26.11:1935/live/portocanal/live.m3u8
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+
             <item>
                 <title>[COLOR=white][B]Axn[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -315,30 +316,7 @@
                 </regex>
             </item>
 			
-			<item>
-<title>[COLOR white] [B] Hollywood [/B][/COLOR] [COLOR red] alt [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ns3045782.ip-5-135-142.eu:8000/live/sYKADDaJs2/SnoQc6v4hZ/1144.ts&amp;name=Kodiptvsharing</link>
-<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
-</item>
-
-            <item>
-                <title>[COLOR=white][B]Hollywood [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-                <link>http://$doregex[ip]$doregex[m3u8]</link>
-                <regex>
-                    <name>ip</name>
-                    <expres>redirect=(.*)</expres>
-                    <page>http://www.pubucaster.com:1935/loadbalancer</page>
-                </regex>
-                <regex>
-                    <name>m3u8</name>
-                    <expres>ea \+ "(.*?)"</expres>
-                    <page>http://www.embeducaster.com/membedplayer/hollywoodx/1/650/500</page>
-                    <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-                    <referer>http://www.embeducaster.com/</referer>
-<thumbnail>http://s20.postimg.org/yr2qquo1p/canal_hollywood_es.png</thumbnail>
-                </regex>
-            </item>
-            <item>
+                        <item>
                 <title>[COLOR=white][B]Mtv[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
                 <regex>
@@ -422,19 +400,10 @@
 <thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
 </regex>
 </item>
-<item>
-<title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
-<link>rtmp://213.13.26.11/live playpath=portocanal swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=</link>
-<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
-</item>
-<item>
-<title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
-<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
-<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
-</item>
+
 
 <item>
-<title>[COLOR white][B]TV LISBOA [/B][/COLOR] [COLOR red]OFF[/COLOR]</title>
+<title>[COLOR white][B]TV LISBOA [/B][/COLOR] [COLOR red][/COLOR]</title>
 <link>http://213.13.26.11:1935/live/tvldireto/livestrem.m3u8</link>
 <thumbnail>http://i.imgur.com/tiLO5Il.png</thumbnail>
 </item>
@@ -445,15 +414,10 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR white] [B] SIC [/B][/COLOR] [COLOR red] alt [/COLOR]</title>
-<link>http://noscdn1.connectedviews.com:1935/live/smil:sic.smil/playlist.m3u8</link>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR white] [B] SIC [/B][/COLOR] [COLOR red] alt 2 [/COLOR]</title>
-<link>http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/653.ts</link>
+<link></link>
 <thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
 </item>
 
