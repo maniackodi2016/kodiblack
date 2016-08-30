@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR white] [B] [B] tv cine 1 [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1145.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] tv cine 1 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>http://83.78.191.43:2075/</link>
 <thumbnail>http://www.comandotv.com/xbmc/tvcine1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] tv cine 1 [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1059.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] tv cine 1 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url= &amp;name=Kodiptvsharing</link>
 <thumbnail>http://www.comandotv.com/xbmc/tvcine1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] tv cine 2 [/B][/COLOR] [COLOR red] on [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1058.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] tv cine 2 [/B][/COLOR] [COLOR lime] on [/COLOR]</title>
+<link>http://83.78.191.43:2076/</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] tv cine 3 [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1057.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] tv cine 3 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>http://83.78.191.43:2077/</link>
 <thumbnail>http://www.comandotv.com/xbmc/tvcine1.pnghttp://tudonumclick.com/css/i/tv/tvc3.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] tv cine 4 [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1056.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] tv cine 4 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>http://83.78.191.43:2078/</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] Tv Series [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1152.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] Tv Series [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>http://83.78.191.43:2082/</link>
 <thumbnail>http://www.lowcostportugal.net/wp-content/uploads/destaque_canal_tvseries_449x1961.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] Tv Series [/B][/COLOR] [COLOR red] On [/COLOR]</title>
+<title>[COLOR white] [B] [B] Tv Series [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://globiptv.com:8000/live/CLIENTX484/3222065487/1693.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://www.lowcostportugal.net/wp-content/uploads/destaque_canal_tvseries_449x1961.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] CINEMUNDO [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/507.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] CINEMUNDO [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>http://83.78.191.43:2017/</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] [B] HOLLYWOOD HD [/B][/COLOR] [COLOR red] On [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://5.135.142.195:8000/live/sYKADDaJs2/SnoQc6v4hZ/1408.ts&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] [B] HOLLYWOOD [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
+<link>http://83.78.191.43:2035/</link>
 <thumbnail>http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s1600/533px-Canal_Hollywood.svg_.png</thumbnail>
 </item>
 
