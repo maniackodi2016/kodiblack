@@ -1,6 +1,12 @@
 <item>  
-<title>[COLOR White][B] RTP 1 [/B][/COLOR]</title>
+<title>[COLOR=White][B] RTP 1 [/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15</link>
+<thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
+ </item>
+ 
+<item>  
+<title>[COLOR White][B] RTP 1 [/B][/COLOR]</title>
+<link>http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8</link>
 <thumbnail>http://s20.postimg.org/o8bxt6059/rtp1.png</thumbnail>
  </item>
  
@@ -10,16 +16,28 @@
 <thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
  </item>
  
+<item>
+<title>[COLOR=white][B] RTP 2 [/B][/COLOR]</title>
+<link>http://83.78.191.43:2052/</link>
+<thumbnail>http://s20.postimg.org/3qqzhio1p/rtp2.png</thumbnail>
+ </item>
+ 
+<item>
 <title>[COLOR=white][B] RTP 3 [/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15</link>
- <thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+<thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR=white][B] RTP 3 [/B][/COLOR]</title>
+<link>http://83.78.191.43:2055/</link>
+<thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
 </item>
  
 <item>
-<title>[COLOR=white][B] SIC [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-<link>http://$doregex[ip]$doregex[m3u8]</link><regex><name>ip</name><expres>redirect=(.*)</expres><page>http://www.liveflashpublisher.com:1935/loadbalancer</page></regex><regex><name>m3u8</name><expres>ea \+ "(.*?)"</expres><page>http://www.liveflashplayer.net/membedplayer/SIC813747234/1/565/440</page><agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent><referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
-</regex>
+<title>[COLOR=white][B] SIC [/B][/COLOR]</title>
+<link>http://83.78.191.43:2058/</link>
+<thumbnail>http://s20.postimg.org/tbfeszjgd/rtp_3.png</thumbnail>
 </item>
 
 <item>
@@ -35,13 +53,13 @@
 </item>
  
 <title>[COLOR white][B] TVI [/B][/COLOR]</title>
-<link></link>
+<link>http://83.78.191.43:2079/</link>
 <thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
 </item>
  
 <item>
 <title>[COLOR=white][B] SIC NOTICIAS [/B][/COLOR]</title>
-<link></link>
+<link>http://83.78.191.43:2060/</link>
 <thumbnail>http://s20.postimg.org/69coi79rx/sic_noticias.png</thumbnail>
 </item>
  
@@ -56,6 +74,12 @@
 <link>http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/livestream.m3u8</link>
 <thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR=white][B] TVI 24[/B][/COLOR]</title>
+<link>http://83.78.191.43:2081/</link>
+<thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
+</item>
  
 <title>[COLOR=white][B] RTP AÇORES [/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
@@ -64,7 +88,7 @@
  
 <item>
 <title>[COLOR=white][B] RTP AÇORES [/B][/COLOR]</title>
-<link></link>
+<link>http://83.78.191.43:2053/</link>
 <thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
 </item>
  
@@ -76,7 +100,7 @@
  
 <item>
 <title>[COLOR=white][B] RTP ÁFRICA [/B][/COLOR]</title>
-<link></link>
+<link>http://83.78.191.43:2049/</link>
 <thumbnail>http://s20.postimg.org/qodr70i7x/rtp_africa.png</thumbnail>
 </item>
  
