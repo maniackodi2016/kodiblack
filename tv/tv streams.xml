@@ -131,6 +131,12 @@
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://s20.postimg.org/ckhvymb0d/rtp_internacional.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white] [B] SIC Caras [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2090/</link>
+<thumbnail>http://1.bp.blogspot.com/-GDeVfREy564/Up4f5mNER_I/AAAAAAAAf94/TVNTCuJan88/s1600/1385267_243581922458366_1006993774_n.png</thumbnail>
+</item>
  
   <item>
             <title>[COLOR=white][B]Sic Mulher[/B][/COLOR] [COLOR=lime] ON [/COLOR]</title>
@@ -498,6 +504,39 @@
 <link>http://83.78.191.43:2010/</link>
 <thumbnail>http://65.media.tumblr.com/tumblr_lwnr6ez6Jp1qzq3uoo1_1280.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white] [B] Trace TV [/B][/COLOR] [COLOR red] alt 2 [/COLOR]</title>
+<link>http://83.78.191.43:2071/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/ba/Trace.TV_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] CBS Reality[/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2015/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/80/CBS_Reality.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Nat Geo Wild [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2041/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/d/dd/Nat_Geo_Wild_(Canada).png</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR white] [B] Globo Premium [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2073/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/24/Logotipo_do_Globo_Premium.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] TV Record [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2074/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png</thumbnail>
+</item>
+
 
 
 
