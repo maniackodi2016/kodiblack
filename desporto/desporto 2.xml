@@ -18,6 +18,10 @@ http://83.78.191.43:2085/
 http://83.78.191.43:2025/
 #EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://layout2.eurosport.com/i/v8/promo_mobile/news/wen/logo.png" group-title="CANAIS GERAL",Eurosport 1
 http://83.78.191.43:2027/
+#EXTINF:-1 tvg-ID="Chelsea TV" tvg-name="Chelsea TV" tvg-logo="http://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="CANAIS GERAL",Chelsea TV
+http://83.78.191.43:2016/
+#EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png" group-title="CANAIS GERAL",Real Madrid TV
+http://83.78.191.43:2050/
 
 
 
