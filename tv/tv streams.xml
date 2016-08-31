@@ -450,23 +450,6 @@
                 </regex>
             </item>
 			<item>
-<item>
-<title>[COLOR white][B] BOLA TV[/B][/COLOR] [COLOR red] off [/COLOR]</title>
-<link>rtmp://$doregex[get-ip]/stream playpath=BOLA33888338?id=23688$doregex[pk] conn=S:OK   swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/ live=true timeout=10</link>
-<regex>
-<name>get-ip</name>
-<expres>redirect=(.*)</expres>
-<page>http://www.liveflashpublisher.com:1935/loadbalancer</page>
-</regex>
-<regex>
-<name>pk</name>
-<expres>ea=(.*)'</expres>
-<page>http://www.liveflashplayer.net/embedplayer/BOLA33888338/1/565/440</page>
-<referer>http://www.liveflashplayer.net</referer>
-<thumbnail>http://www.thelogodb.com/images/media/logo/yuvqvt1437951057.png</thumbnail>
-</regex>
-</item>
-
 
 <item>
 <title>[COLOR white][B]TV LISBOA [/B][/COLOR] [COLOR red][/COLOR]</title>
@@ -480,23 +463,40 @@
 <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews_fr.png</thumbnail>
 </item>
 
-
 <item>
-<title>[COLOR white] [B] SIC [/B][/COLOR] [COLOR red] alt 2 [/COLOR]</title>
-<link></link>
-<thumbnail>http://s20.postimg.org/dhswl8bwd/sic1.png</thumbnail>
+<title>[COLOR white] [B] Caçavision [/B][/COLOR] [COLOR red] alt 2 [/COLOR]</title>
+<link>http://83.78.191.43:2011/</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] SIC NOTICIAS [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-<link>http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/9/9d/SICNoticias.jpg</thumbnail>
+<title>[COLOR white] [B] CMTV [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2018/</link>
+<thumbnail>https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] TVcine 1 FHD [/B][/COLOR] [COLOR red] off [/COLOR]</title>
+<title>[COLOR white] [B] Canal Q [/B][/COLOR] [COLOR red] [/COLOR]</title>
 <link>http://ptbrvirtual.no-ip.net:8000/live/iptvwordline@gmail.com/vslQGgoOWA/654.ts</link>
-<thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC1.png</thumbnail>
+<thumbnail>https://pbs.twimg.com/profile_images/449620462612402176/sOyuVFfJ.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Syfy [/B][/COLOR] [COLOR red] alt 2 [/COLOR]</title>
+<link>http://83.78.191.43:2070/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] MCM POP [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2018/</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Mcm_pop_logo.svg/langfr-400px-Mcm_pop_logo.svg.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] C-Music [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2010/</link>
+<thumbnail>http://65.media.tumblr.com/tumblr_lwnr6ez6Jp1qzq3uoo1_1280.png</thumbnail>
 </item>
 
 
