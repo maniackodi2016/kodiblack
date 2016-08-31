@@ -149,23 +149,19 @@
                 <thumbnail>http://s20.postimg.org/g97ky3l19/sicm_ver3.png</thumbnail>
             </regex>
         </item>
+<item>
+<title>[COLOR=white][B] Sic Radical [/B][/COLOR]</title>
+<link>http://83.78.191.43:2061/</link>
+<thumbnail>http://s20.postimg.org/s14n0duf1/sic_radical.png</thumbnail>
+</item>
 
-        <item>
-            <title>[COLOR=white][B]Sic Radical [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-            <link>http://$doregex[ip]$doregex[m3u8]</link>
-            <regex>
-                <name>ip</name>
-                <expres>redirect=(.*)</expres>
-                <page>http://www.pubucaster.com:1935/loadbalancer</page>
-            </regex>
-            <regex>
-                <name>m3u8</name>
-                <expres>ea \+ "(.*?)"</expres>
-                <page>http://www.embeducaster.com/membedplayer/sicradicalx/1/650/500</page>
-                <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-                <referer>http://www.embeducaster.com/</referer>
-                <thumbnail>http://s20.postimg.org/s14n0duf1/sic_radical.png</thumbnail>
-            </item>
+
+<item>
+<title>[COLOR=white][B] Tvi Ficção [/B][/COLOR]</title>
+<link>http://83.78.191.43:2080/</link>
+<thumbnail>http://s20.postimg.org/uypdx4qpp/tvi.jpg</thumbnail>
+</item>
+			
             <item>
                 <title>[COLOR=white][B]Tvi Ficção[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -232,7 +228,7 @@
 </item>
 <item>
 <title>[COLOR white][B] Porto Canal[/B][/COLOR] HQ</title>
-<link></link>http://213.13.26.11:1935/live/portocanal/live.m3u8
+<link>http://213.13.26.11:1935/live/portocanal/live.m3u8</link>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
 </item>
 
@@ -271,6 +267,12 @@
                 </regex>
             </item>
  
+<item>
+<title>[COLOR white][B] Fox[/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2029/</link>
+<thumbnail>http://s20.postimg.org/z6jpmib7h/FOX.jpg</thumbnail>
+</item>
+
             <item>
                 <title>[COLOR=white][B]Fox[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -340,6 +342,25 @@
                 </regex>
             </item>
 			
+<item>
+<title>[COLOR white][B] FOX News [/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2030/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d4/Fox_News_Channel_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B] FOX Comedy [/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2033/</link>
+<thumbnail>http://www.mm-eu.tv/wordpress/wp-content/uploads/2016/01/fox_comedy-blue_330X182.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B] Mtv [/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2040/</link>
+<thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
+</item>
+
+			
                         <item>
                 <title>[COLOR=white][B]Mtv[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -357,6 +378,13 @@
                     <thumbnail>http://s20.postimg.org/9esouo30d/mtv_us.png</thumbnail>
                 </regex>
             </item>
+
+<item>
+<title>[COLOR white][B] Discovery [/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2023/</link>
+<thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
+</item>
+
             <item>
                 <title>[COLOR=white][B]Discovery[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -374,6 +402,13 @@
 <thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
                 </regex>
             </item>
+
+<item>
+<title>[COLOR white][B] História [/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2012/</link>
+<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
+</item>
+
             <item>
                 <title>[COLOR=white][B]História[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
@@ -391,6 +426,13 @@
                     <thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
                 </regex>
             </item>
+			
+<item>
+<title>[COLOR white][B] Odisseia [/B][/COLOR] HQ</title>
+<link>http://83.78.191.43:2012/</link>
+<thumbnail>http://s20.postimg.org/n6ay23w3h/odisseia_ver1.png</thumbnail>
+</item>
+
             <item>
                 <title>[COLOR=white][B]Odisseia[/B][/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
