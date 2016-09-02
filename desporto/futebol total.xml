@@ -5,25 +5,68 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] 01/09/2016 [/B][/COLOR]</title>
+<title>[COLOR yellow][B] 02/09/2016 [/B][/COLOR]</title>
 <link>plugin://program.plexus/?url=&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyblue][B] 17:15 SOCCER SPAIN-SAN MARINO / 19:45 SOCCER NETHERLANDS-GREECE[/B][/COLOR] [COLOR orange] A11 [/COLOR]</title>
+<title>[COLOR lime][B] 19:00 SOCCER SEVILLA ATLETICO-UCAM MURCIA [/B][/COLOR] [COLOR orange] A3 [/COLOR]</title>
+<link>plugin://program.plexus/?url=5538215cb992db6af2947a45565d1db7dc82853a&amp;mode=1&amp;name=kodiptvsharing</link>
+<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR lime][B] 19:00 SOCCER SEVILLA ATLETICO-UCAM MURCIA [/B][/COLOR] [COLOR orange] A8 [/COLOR]</title>
+<link>plugin://program.plexus/?url=0c11425b008816dca9cb63e185dea1fb1494a980&amp;mode=1&amp;name=kodiptvsharing</link>
+<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR blue][B] 19:00 SOCCER SEVILLA ATLETICO-UCAM MURCIA  [/B][/COLOR] [COLOR orange] A9 [/COLOR]</title>
+<link>plugin://program.plexus/?url=d983a441b6c06d35b6d09b5df7b189ee0387bce2&amp;mode=1&amp;name=kodiptvsharing</link>
+<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
+</item>
+
+---
+
+<item>
+<title>[COLOR deepskyblue][B] 20:00 SOCCER CORDOBA-LUGO [/B][/COLOR] [COLOR orange] A11 [/COLOR]</title>
 <link>plugin://program.plexus/?url=b1d581997a127d697326cdf22cd4aff9e3a45fd9&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR deepskyblue][B] 17:15 SOCCER SPAIN-SAN MARINO / 19:45 SOCCER NETHERLANDS-GREECE [/B][/COLOR] [COLOR orange] A12 [/COLOR]</title>
+<title>[COLOR deepskyblue][B] 20:00 SOCCER CORDOBA-LUGO [/B][/COLOR] [COLOR orange] A12 [/COLOR]</title>
 <link>plugin://program.plexus/?url=53c28d0f8ad702aff462fa5bf0c4be58fdaf06ad&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
+---
+
 <item>
-<title>[COLOR deepskyblue][B] 17:15 SOCCER SPAIN-SAN MARINO / 19:45  / 19:45 SOCCER NETHERLANDS-GREECE	SOCCER 	NETHERLANDS-GREECE [/B][/COLOR] [COLOR orange] A4 [/COLOR]</title>
+<title>[COLOR red][B] 20:30 SOCCER ST.VINCENT GRENADINES-UNITED STATES / 22:06 SOCCER HONDURAS-CANADA [/B][/COLOR] [COLOR orange] A26 [/COLOR]</title>
+<link>plugin://program.plexus/?url=86160113685d961a0b825e28bc9f83b7939704b8&amp;mode=1&amp;name=kodiptvsharing</link>
+<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR red][B] 20:30 SOCCER ST.VINCENT GRENADINES-UNITED STATES / 22:06 SOCCER HONDURAS-CANADA[/B][/COLOR] [COLOR orange] A27 [/COLOR]</title>
+<link>plugin://program.plexus/?url=093d2f36bf772bc4b1dab0090ab4625c208a6e3c&amp;mode=1&amp;name=kodiptvsharing</link>
+<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
+</item>
+
+---
+
+<item>
+<title>[COLOR yellow][B] Outros Desportos [/B][/COLOR]</title>
+<link>plugin://program.plexus/?url=&amp;mode=1&amp;name=kodiptvsharing</link>
+<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR deepskyblue][B] Vários [/B][/COLOR] [COLOR orange] A4 [/COLOR]</title>
 <link>plugin://program.plexus/?url=f5bc7c965601c7b10dc2e0582f131c2a4067ff4b&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
@@ -31,67 +74,42 @@
 .....
 
 <item>
-<title>[COLOR blue][B] 19:45 SOCCER BELGIUM-SPAIN / 21:00 SOCCER BOLIVIA-PERU[/B][/COLOR] [COLOR orange] A7 [/COLOR]</title>
+<title>[COLOR blue][B] Vários [/B][/COLOR] [COLOR orange] A7 [/COLOR]</title>
 <link>plugin://program.plexus/?url=e337d635ce1840f2877276eefde74a8132e342d0&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR blue][B] 19:45 SOCCER BELGIUM-SPAIN  [/B][/COLOR] [COLOR orange] A9 [/COLOR]</title>
-<link>plugin://program.plexus/?url=d983a441b6c06d35b6d09b5df7b189ee0387bce2&amp;mode=1&amp;name=kodiptvsharing</link>
-<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
-</item>
 
 <item>
-<title>[COLOR blue][B] 19:45 SOCCER BELGIUM-SPAIN / 22:00 SOCCER ECUADOR-BRAZIL [/B][/COLOR] [COLOR orange] A14 [/COLOR]</title>
+<title>[COLOR blue][B] Vários [/B][/COLOR] [COLOR orange] A14 [/COLOR]</title>
 <link>plugin://program.plexus/?url=2bc26da9693eae2c31fe2eb28bf954d1d5fffa1d&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR blue][B] 19:45 SOCCER BELGIUM-SPAIN / 22:00 SOCCER ECUADOR-BRAZIL[/B][/COLOR] [COLOR orange] A5 [/COLOR]</title>
+<title>[COLOR blue][B] Vários [/B][/COLOR] [COLOR orange] A5 [/COLOR]</title>
 <link>plugin://program.plexus/?url=ebba9e70b88888d2abc06e5759549fd6c44fddaf&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 ----
 
-<item>
-<title>[COLOR lime][B] 19:45 SOCCER PORTUGAL-GIBRALTAR [/B][/COLOR] [COLOR orange] A3 [/COLOR]</title>
-<link>plugin://program.plexus/?url=5538215cb992db6af2947a45565d1db7dc82853a&amp;mode=1&amp;name=kodiptvsharing</link>
-<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
-</item>
 
-<item>
-<title>[COLOR lime][B] 19:45 SOCCER PORTUGAL-GIBRALTAR [/B][/COLOR] [COLOR orange] A8 [/COLOR]</title>
-<link>plugin://program.plexus/?url=0c11425b008816dca9cb63e185dea1fb1494a980&amp;mode=1&amp;name=kodiptvsharing</link>
-<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
-</item>
+
+----
+
+
 
 ----
 
 <item>
-<title>[COLOR red][B] 20:00 SOCCER ITALY-FRANCE [/B][/COLOR] [COLOR orange] A26 [/COLOR]</title>
-<link>plugin://program.plexus/?url=86160113685d961a0b825e28bc9f83b7939704b8&amp;mode=1&amp;name=kodiptvsharing</link>
-<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
-</item>
-
-<item>
-<title>[COLOR red][B] 20:00 SOCCER ITALY-FRANCE [/B][/COLOR] [COLOR orange] A27 [/COLOR]</title>
-<link>plugin://program.plexus/?url=093d2f36bf772bc4b1dab0090ab4625c208a6e3c&amp;mode=1&amp;name=kodiptvsharing</link>
-<thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
-</item>
-
-----
-
-<item>
-<title>[COLOR green][B] 21:00 SOCCER BOLIVIA-PERU [/B][/COLOR] [COLOR orange] A17 [/COLOR]</title>
+<title>[COLOR green][B] Vários  [/B][/COLOR] [COLOR orange] A17 [/COLOR]</title>
 <link>plugin://program.plexus/?url=a0eb7e6e34545feef6783c854496da7ac07ea2c4&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR green][B] 21:00 SOCCER BOLIVIA-PERU [/B][/COLOR] [COLOR orange] A18 [/COLOR]</title>
+<title>[COLOR green][B] Vários [/B][/COLOR] [COLOR orange] A18 [/COLOR]</title>
 <link>plugin://program.plexus/?url=d8adb09935cd09640da04fec02721c92f5b7f097&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
@@ -99,19 +117,19 @@
 ---
 
 <item>
-<title>[COLOR orange][B] 21:30 SOCCER COLOMBIA-VENEZUELA [/B][/COLOR] [COLOR orange] A15 [/COLOR]</title>
+<title>[COLOR orange][B] Vários [/B][/COLOR] [COLOR orange] A15 [/COLOR]</title>
 <link>plugin://program.plexus/?url=c34aebe981b06ba390d326f2e701728e783bef59&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B] 21:30 SOCCER COLOMBIA-VENEZUELA [/B][/COLOR] [COLOR orange] A16 [/COLOR]</title>
+<title>[COLOR orange][B] Vários [/B][/COLOR] [COLOR orange] A16 [/COLOR]</title>
 <link>plugin://program.plexus/?url=bb025fa041af88d244e2d679618f7d776513a3c8&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
 
 <item>
-<title>[COLOR orange][B] 21:30 SOCCER COLOMBIA-VENEZUELA [/B][/COLOR] [COLOR orange] A6 [/COLOR]</title>
+<title>[COLOR orange][B] Vários [/B][/COLOR] [COLOR orange] A6 [/COLOR]</title>
 <link>plugin://program.plexus/?url=5d2e9ed30c83fc9af260f71b6cff5b6bdb97d22c&amp;mode=1&amp;name=kodiptvsharing</link>
 <thumbnail>http://i.imgur.com/LIwx17Z.jpg</thumbnail>
 </item>
