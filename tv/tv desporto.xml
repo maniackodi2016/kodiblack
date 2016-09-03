@@ -34,7 +34,7 @@
 </item>
 
 <item>
-<title> [COLOR white][B] Canais ArenaVision [/COLOR]</title>
+<title> [COLOR white][B] Canais ArenaVision [/B] [/COLOR]</title>
 <link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
