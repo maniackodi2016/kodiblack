@@ -1,27 +1,27 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="Sport Tv 1" tvg-name="Sport Tv 1" tvg-logo="http://s20.postimg.org/odduxcbp9/sporttv1.png" group-title="CANAIS GERAL",Sport Tv 1
-http://83.78.191.43:2065/
-#EXTINF:-1 tvg-ID="Sport Tv 2" tvg-name="Sport Tv 2" tvg-logo="http://s20.postimg.org/5p0enra65/sporttv2.png" group-title="CANAIS GERAL",Sport Tv 2
-http://83.78.191.43:2066/
+
+EXTINF:-1 tvg-ID="Sport Tv 2" tvg-name="Sport Tv 2" tvg-logo="http://s20.postimg.org/5p0enra65/sporttv2.png" group-title="CANAIS GERAL",Sport Tv 2
+
 #EXTINF:-1 tvg-ID="Sport Tv 3" tvg-name="Sport Tv 3" tvg-logo="http://s20.postimg.org/gee3g0lz1/sporttv3.png" group-title="CANAIS GERAL",Sport Tv 3
-http://83.78.191.43:2067/
+
 #EXTINF:-1 tvg-ID="Sport Tv 3 HD" tvg-name="Sport Tv 3 HD" tvg-logo="http://s20.postimg.org/gee3g0lz1/sporttv3.png" group-title="CANAIS GERAL",Sport Tv 3 HD
-http://83.78.191.43:2064/
+
 #EXTINF:-1 tvg-ID="Motors TV" tvg-name="Motors TV" tvg-logo="https://www.motorstv.com/sites/default/files/logo_motorstv_simple_0.png" group-title="CANAIS GERAL",Motors TV
-http://83.78.191.43:2039/
+
 #EXTINF:-1 tvg-ID="Porto Canal" tvg-name="Porto Canal" tvg-logo="http://www.movenoticias.com/wp-content/uploads/2016/01/Log%C3%B3tipo-Porto-Canal.png" group-title="CANAIS GERAL",Porto Canal
-http://83.78.191.43:2047/
+
 #EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A Bola TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS GERAL",A Bola TV
-http://83.78.191.43:2085/
+
 #EXTINF:-1 tvg-ID="Kombat Sport" tvg-name="Kombat Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Kombat_sport.png" group-title="CANAIS GERAL",Kombat Sport
-http://83.78.191.43:2025/
-#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://layout2.eurosport.com/i/v8/promo_mobile/news/wen/logo.png" group-title="CANAIS GERAL",Eurosport 1
 http://83.78.191.43:2027/
+#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://layout2.eurosport.com/i/v8/promo_mobile/news/wen/logo.png" group-title="CANAIS GERAL",Eurosport 1
+
 #EXTINF:-1 tvg-ID="Chelsea TV" tvg-name="Chelsea TV" tvg-logo="http://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="CANAIS GERAL",Chelsea TV
-http://83.78.191.43:2016/
+
 #EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png" group-title="CANAIS GERAL",Real Madrid TV
-http://83.78.191.43:2050/
+
 
 
 
