@@ -2,7 +2,7 @@
  
 <item>
 <title>[COLOR white] [B] [B] tv cine 1 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
-<link>http://83.78.191.43:2075/</link>
+<link>http://83.78.191.43:2053/</link>
 <thumbnail>http://www.comandotv.com/xbmc/tvcine1.png</thumbnail>
 </item>
 
@@ -14,25 +14,25 @@
 
 <item>
 <title>[COLOR white] [B] [B] tv cine 2 [/B][/COLOR] [COLOR lime] on [/COLOR]</title>
-<link>http://83.78.191.43:2076/</link>
+<link>http://83.78.191.43:2054</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC2.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] [B] [B] tv cine 3 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
-<link>http://83.78.191.43:2077/</link>
+<link>http://83.78.191.43:2055/</link>
 <thumbnail>http://www.comandotv.com/xbmc/tvcine1.pnghttp://tudonumclick.com/css/i/tv/tvc3.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] [B] [B] tv cine 4 [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
-<link>http://83.78.191.43:2078/</link>
+<link>http://83.78.191.43:2056</link>
 <thumbnail>http://portalnacional.com.pt/images/icons/tv/TVC4.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] [B] [B] Tv Series [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
-<link>http://83.78.191.43:2082/</link>
+<link>http://83.78.191.43:2059/</link>
 <thumbnail>http://www.lowcostportugal.net/wp-content/uploads/destaque_canal_tvseries_449x1961.jpg</thumbnail>
 </item>
 
@@ -44,13 +44,13 @@
 
 <item>
 <title>[COLOR white] [B] [B] CINEMUNDO [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
-<link>http://83.78.191.43:2017/</link>
+<link></link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logotipo_Cinemundo.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] [B] [B] HOLLYWOOD [/B][/COLOR] [COLOR lime] On [/COLOR]</title>
-<link>http://83.78.191.43:2035/</link>
+<link></link>
 <thumbnail>http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s1600/533px-Canal_Hollywood.svg_.png</thumbnail>
 </item>
 
