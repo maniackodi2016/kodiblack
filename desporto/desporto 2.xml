@@ -1,42 +1,13 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-ID="Sport Tv 1" tvg-name="Sport Tv 1" tvg-logo="http://s20.postimg.org/odduxcbp9/sporttv1.png" group-title="CANAIS GERAL",Sport Tv 1
-http://83.78.191.43:2047/
-EXTINF:-1 tvg-ID="Sport Tv 2.1
-´
-
-#EXTINF:-1 tvg-name="Sport Tv 2" tvg-logo="http://s20.postimg.org/5p0enra65/sporttv2.png" group-title="CANAIS GERAL",Sport Tv 2
-http://83.78.191.43:2048/
-#EXTINF:-1 tvg-ID="Sport Tv 3" tvg-name="Sport Tv 3" tvg-logo="http://s20.postimg.org/gee3g0lz1/sporttv3.png" group-title="CANAIS GERAL",Sport Tv 3
-
-#EXTINF:-1 tvg-ID="Sport Tv 3 HD" tvg-name="Sport Tv 3 HD" tvg-logo="http://s20.postimg.org/gee3g0lz1/sporttv3.png" group-title="CANAIS GERAL",Sport Tv 3 HD
-
-#EXTINF:-1 tvg-ID="Motors TV" tvg-name="Motors TV" tvg-logo="https://www.motorstv.com/sites/default/files/logo_motorstv_simple_0.png" group-title="CANAIS GERAL",Motors TV
-
-#EXTINF:-1 tvg-ID="Porto Canal" tvg-name="Porto Canal" tvg-logo="http://www.movenoticias.com/wp-content/uploads/2016/01/Log%C3%B3tipo-Porto-Canal.png" group-title="CANAIS GERAL",Porto Canal
-
-#EXTINF:-1 tvg-ID="A Bola TV" tvg-name="A Bola TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="CANAIS GERAL",A Bola TV
-http://83.78.191.43:2000
-#EXTINF:-1 tvg-ID="Kombat Sport" tvg-name="Kombat Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Kombat_sport.png" group-title="CANAIS GERAL",Kombat Sport
-http://83.78.191.43:2027/
-#EXTINF:-1 tvg-ID="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://layout2.eurosport.com/i/v8/promo_mobile/news/wen/logo.png" group-title="CANAIS GERAL",Eurosport 1
-
-#EXTINF:-1 tvg-ID="Chelsea TV" tvg-name="Chelsea TV" tvg-logo="http://officialtvstream.net/wp-content/uploads/2015/05/Chelsea-TV1.png" group-title="CANAIS GERAL",Chelsea TV
-
-#EXTINF:-1 tvg-ID="Real Madrid TV" tvg-name="Real Madrid TV" tvg-logo="http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png" group-title="CANAIS GERAL",Real Madrid TV
-
-
-
 
 <item>
 <title>[COLOR white] [B] Sport Tv 1 [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-<link>http://83.78.191.43:2038/</link>
+<link>http://83.78.191.43:2047/</link>
 <thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] [B] Sport Tv 2 [/B][/COLOR]  [COLOR red] off [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
+<link>http://83.78.191.43:2048/</link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
@@ -47,8 +18,8 @@ http://83.78.191.43:2027/
 </item>
 
 <item>
-<title>[COLOR white] [B] Sport Tv 3 [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] Sport Tv 3 [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
@@ -60,19 +31,19 @@ http://83.78.191.43:2027/
 
 <item>
 <title>[COLOR white] [B] Sport Tv 4 [/B][/COLOR] [COLOR red] off [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1136.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://s20.postimg.org/jjyp684l9/sporttv4.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] Sport Tv 5 [/B][/COLOR]  [COLOR red] off [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
+<title>[COLOR white] [B] Sport Tv 5 [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1137.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] [B] BTV 1 [/B][/COLOR]  [COLOR red] off [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
@@ -84,7 +55,7 @@ http://83.78.191.43:2027/
 
 <item>
 <title>[COLOR white] [B] SPORTING TV [/B][/COLOR]  [COLOR red] off [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://1.bp.blogspot.com/-rCA_G9oUuS0/U6oX_D4sGtI/AAAAAAAATEQ/psfRO9nDisY/w1200-h630-p-nu/Logo+SPORTING+TV.jpg</thumbnail>
 </item>
 
