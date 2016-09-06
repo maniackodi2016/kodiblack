@@ -11,21 +11,10 @@
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
-<item>
-<title>[COLOR white] [B]  [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
-<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
-</item>
 
 <item>
 <title>[COLOR white] [B] Sport Tv 3 [/B][/COLOR] [COLOR red] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;name=Kodiptvsharing</link>
-<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B]  [/B][/COLOR] [COLOR red]  [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
@@ -48,13 +37,7 @@
 </item>
 
 <item>
-<title>[COLOR white] [B] BTV 1 [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=xxx&amp;name=Kodiptvsharing</link>
-<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR white] [B] SPORTING TV [/B][/COLOR]  [COLOR red] off [/COLOR]</title>
+<title>[COLOR white] [B] SPORTING TV [/B][/COLOR]  [COLOR red] [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1141.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://1.bp.blogspot.com/-rCA_G9oUuS0/U6oX_D4sGtI/AAAAAAAATEQ/psfRO9nDisY/w1200-h630-p-nu/Logo+SPORTING+TV.jpg</thumbnail>
 </item>
