@@ -76,7 +76,7 @@
 <thumbnail>http://s20.postimg.org/c6jb79kjh/sporttv5.png</thumbnail>
 </item>
 
-<item>
+<item
 <title>[COLOR white][B]BENFICA TV[/B][/COLOR] [COLOR red]OFF[/COLOR]</title>
 <sportsdevil>http://firstrowas.co///embed/9DOXhIxxsw</sportsdevil>
 <referer>http://mytvfree4.me/</referer>
@@ -91,7 +91,7 @@
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
-<item>
+<item
 <title>[COLOR white][B]BENFICA TV[/B][/COLOR] [COLOR red] OFF [/COLOR] </title>
 <sportsdevil>http://antena.mytvfree2.me/btv1.php</sportsdevil>
 <referer>http://mytvfree.me/ver/benfica-tv-direto</referer>
@@ -99,19 +99,21 @@
 </item>
 
 <item>
-<title>[COLOR white] [B] BTV 1 [/B][/COLOR] [COLOR red] OFF [/COLOR]</title>
+<title>[COLOR white] [B] Benfica Tv [/B][/COLOR] [COLOR red] [/COLOR]</title>
 <link>rtmp://31.220.40.60/privatestream/gergtrg?keys=XYx3cqbMChCPHLfMG6JYCQ&keyt=1470164765 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] BTV 1 [/B][/COLOR] [COLOR lime] on [/COLOR]</title>
+<title>[COLOR white] [B] Benfica Tv [/B][/COLOR] [COLOR lime] on [/COLOR]</title>
 <link>rtmp://31.220.40.59/privatestream/gergtrg?keys=uPzcp6nw34Sj6Bnr7ViTYQ&keyt=1470168681 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white][B]Eurosport 1[/B][/COLOR]</title><sportsdevil>http://www.sporttvsonline.net/index.php?canal=eurosport</sportsdevil><referer>http://www.sporttvsonline.com</referer>
+<title>[COLOR white][B]Eurosport 1[/B][/COLOR]</title>
+<sportsdevil>http://www.sporttvsonline.net/index.php?canal=eurosport</sportsdevil>
+<referer>http://www.sporttvsonline.com</referer>
 <thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
 </item>
 
