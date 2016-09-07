@@ -147,30 +147,11 @@
 </item>
 
 <item>
-<title>[COLOR white][B]MOTORS TV[/B][/COLOR]</title>
+<title>[COLOR white][B]Sic Mulher[/B][/COLOR]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=sicmulher</sportsdevil><referer>http://www.europeu2016.net</referer>
 <thumbnail>http://s20.postimg.org/g97ky3l19/sicm_ver3.png</thumbnail></item>
 <item>
 
-
- 
-  <item>
-            <title>[COLOR=white][B]Sic Mulher[/B][/COLOR] [COLOR=lime] ON [/COLOR]</title>
-            <link>http://$doregex[ip]$doregex[m3u8]</link>
-            <regex>
-                <name>ip</name>
-                <expres>redirect=(.*)</expres>
-                <page>http://www.pubucaster.com:1935/loadbalancer</page>
-            </regex>
-            <regex>
-                <name>m3u8</name>
-                <expres>ea \+ "(.*?)"</expres>
-                <page>http://www.embeducaster.com/membedplayer/sicm02/1/599/3	99</page>
-                <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
-                <referer>http://www.embeducaster.com/</referer>
-                <thumbnail>http://s20.postimg.org/g97ky3l19/sicm_ver3.png</thumbnail>
-            </regex>
-        </item>
 <item>
 <title>[COLOR=white][B] Sic Radical [/B][/COLOR]</title>
 <link>http://83.78.191.43:2046</link>
@@ -182,6 +163,12 @@
 <title>[COLOR=white][B] Tvi Ficção [/B][/COLOR]</title>
 <link>http://83.78.191.43:2058/</link>
 <thumbnail>http://s20.postimg.org/uypdx4qpp/tvi.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white][B]Tvi Ficção[/B][/COLOR]</title>
+<sportsdevil>http://s20.postimg.org/uypdx4qpp/tvi.jpg</sportsdevil><referer>http://www.europeu2016.net</referer>
+<thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/motorstv.jpg</thumbnail>
 </item>
 			
             <item>
@@ -201,6 +188,14 @@
 <thumbnail>http://s20.postimg.org/uypdx4qpp/tvi.jpg</thumbnail>
                 </regex>
             </item>
+
+<item>
+<title>[COLOR white][B]Tvi Reallity[/B][/COLOR]</title>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=secretstory</sportsdevil><referer>http://www.europeu2016.net</referer>
+<thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/motorstv.jpg</thumbnail>
+</item>
+
+
             <item>
                 <title>[COLOR=white][B]Tvi Reality[/B][/COLOR] [COLOR lime] ON [/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
