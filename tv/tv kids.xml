@@ -2,7 +2,7 @@
  
 <item>
 <title>[COLOR deepskyblue] [B] SIC K [/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>http://83.78.191.43:2059/</link> 
+<link></link> 
 <thumbnail>http://www.thelogodb.com/images/media/logo/vuxyry1436891832.png</thumbnail>
 </item>
 <item>
@@ -24,18 +24,24 @@
 </item>
 
 <item>
+<title>[COLOR deepskyblue] [B]CANAL PANDA[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
+<link>http://83.78.191.43:2005</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/srpsux1433342898.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR deepskyblue] [B]PANDA BiGGS[/B][/COLOR] [COLOR lime] ON [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1676.ts&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1676.ts&amp;name=PANDA BiGGS</link>
 <thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
 </item>
 <item>
 <title>[COLOR deepskyblue] [B]PANDA BiGGS[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1590.ts&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1590.ts&amp;name=PANDA BiGGS</link>
 <thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
 </item>
 <item>
 <title>[COLOR deepskyblue] [B]NICKELODEON[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1589.ts&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://151.80.102.59:8000/live/5grandiptv915/67863345/1589.ts&amp;name=NICKELODEON</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
 </item>
 <item>
@@ -46,7 +52,7 @@
 
 <item>
 <title>[COLOR deepskyblue] [B]JIM JAM[/B][/COLOR] [COLOR lime] On [/COLOR] </title>
-<link>http://83.78.191.43:2037/</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png</thumbnail>
 </item>
 
@@ -58,7 +64,7 @@
 
 <item>
 <title>[COLOR deepskyblue] [B]DISNEY CHANNEL[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>http://83.78.191.43:2024/</link>
+<link></link>
 <thumbnail>http://www.lyngsat-logo.com/hires/dd/disney_channel_global_hd.png</thumbnail>
 </item>
  
@@ -82,7 +88,7 @@
 
 <item>
 <title>[COLOR deepskyblue] [B]CARTOON NETWORK[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>http://83.78.191.43:2014/</link>
+<link></link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yvruvt1433944295.png</thumbnail>
 </item>
 
