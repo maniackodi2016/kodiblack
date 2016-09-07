@@ -77,7 +77,7 @@
 </item>
 
 <item>
-<title>[COLOR white][B] PORTO CANAL [/B][/COLOR] [COLOR red]OFF[/COLOR]</title>
+<title>[COLOR white][B] PORTO CANAL [/B][/COLOR] [COLOR red][/COLOR]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=portocanal</sportsdevil>
 <referer>http://www.europeu2016.net</referer>
 <thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
@@ -104,13 +104,13 @@
 </item>
 
 <item>
-<title>[COLOR white] [B] BENFICA TV [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<title>[COLOR white][B]BENFICA TV[/B][/COLOR] [COLOR red] [/COLOR]</title>
 <link>rtmp://31.220.40.60/privatestream/gergtrg?keys=XYx3cqbMChCPHLfMG6JYCQ&keyt=1470164765 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white] [B] BENFICA TV [/B][/COLOR] [COLOR lime] [/COLOR]</title>
+<title>[COLOR white][B]BENFICA TV[/B][/COLOR] [COLOR lime] [/COLOR]</title>
 <link>rtmp://31.220.40.59/privatestream/gergtrg?keys=uPzcp6nw34Sj6Bnr7ViTYQ&keyt=1470168681 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://privatestream.tv/player?streamname=gergtrg&width=630&height=510</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
