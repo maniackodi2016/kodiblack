@@ -165,11 +165,6 @@
 <thumbnail>http://s20.postimg.org/uypdx4qpp/tvi.jpg</thumbnail>
 </item>
 
-<item>
-<title>[COLOR white][B]Tvi Ficção[/B][/COLOR]</title>
-<sportsdevil>http://s20.postimg.org/uypdx4qpp/tvi.jpg</sportsdevil><referer>http://www.europeu2016.net</referer>
-<thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/motorstv.jpg</thumbnail>
-</item>
 			
             <item>
                 <title>[COLOR=white][B]Tvi Ficção[/B][/COLOR]</title>
@@ -189,14 +184,14 @@
                 </regex>
             </item>
 
-<item>
+<item
 <title>[COLOR white][B]Tvi Reallity[/B][/COLOR]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=secretstory</sportsdevil><referer>http://www.europeu2016.net</referer>
 <thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/motorstv.jpg</thumbnail>
 </item>
 
 
-            <item>
+            <item
                 <title>[COLOR=white][B]Tvi Reality[/B][/COLOR] [COLOR lime] ON [/COLOR]</title>
                 <link>http://$doregex[ip]$doregex[m3u8]</link>
                 <regex>
@@ -419,10 +414,16 @@
 <thumbnail>http://s20.postimg.org/8u92e8ke5/discovery_pt.png</thumbnail>
                 </regex>
             </item>
+			
+<item>
+<title>[COLOR white][B]Historia[/B][/COLOR]</title>
+<sportsdevil>http://www.europeu2016.net/index.php?canal=historia</sportsdevil><referer>http://www.europeu2016.net</referer>
+<thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/motorstv.jpg</thumbnail></item>
+
 
 <item>
 <title>[COLOR white][B] História [/B][/COLOR] HQ</title>
-<link>http://83.78.191.43:2012/</link>
+<link></link>
 <thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
 </item>
 
