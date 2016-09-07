@@ -130,11 +130,19 @@
 </item>
 
 <item>
-<title>[COLOR white][B]Eurosport 2[/B][/COLOR][COLOR deepskyblue] alt1[/COLOR]</title>
+<title>[COLOR white][B]Eurosport 2[/B][/COLOR][COLOR deepskyblue][/COLOR]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=eurosport2</sportsdevil>
 <referer>http://www.europeu2016.net/</referer>
 <thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/eurosport2.jpg</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white][B]Eurosport 2[/B][/COLOR][COLOR deepskyblue]alt2[/COLOR]</title>
+<sportsdevil>http://firstrowas.co/embed/0ummYkGJgT</sportsdevil>
+<referer>http://firstrowas.co/</referer>
+<thumbnail>https://sites.google.com/site/relvadoportugues/_/rsrc/1327260735407/home/eurosport2.jpg</thumbnail>
+</item>
+
 
 <item>
 <title>[COLOR white][B]Motors Tv[/B][/COLOR]</title>
