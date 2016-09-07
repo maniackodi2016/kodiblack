@@ -58,6 +58,7 @@
 <link>http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8</link><thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
 </item>
  
+<item>
 <title>[COLOR white][B] TVI [/B][/COLOR]</title>
 <link>http://83.78.191.43:2017/</link>
 <thumbnail>http://s20.postimg.org/wpg1htu7x/TVI.png</thumbnail>
@@ -86,7 +87,8 @@
 <link>http://83.78.191.43:2057</link>
 <thumbnail>http://s20.postimg.org/koulh3mt9/tvi_24.png</thumbnail>
 </item>
- 
+
+<item> 
 <title>[COLOR=white][B] RTP AÇORES [/B][/COLOR]</title>
 <link>rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpacores swfVfy=1 live=1 timeout=15</link>
 <thumbnail>http://s20.postimg.org/yslvbr4n1/rtp_ac_ores.png</thumbnail>
