@@ -6,15 +6,69 @@
 </item>
 
 <item>
+<title>[COLOR white] [B] Sport Tv 1 [/B][/COLOR] [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/243829359?ticket=8088E12C65968DA6E04ADE82A0905397E89A3889&profile=pass</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Sport Tv 1 HD [/B][/COLOR] [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1410531379?ticket=1AA9BB104FDF9E94A43DDC4CA2049C9571B4C6AC&profile=pass</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Sport Tv 1 HD [/B][/COLOR] [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/499492090?ticket=E961A8BE91FBE79FB1FDC3A2063DEA4DFB283E2C&profile=pass</link>
+<thumbnail>http://s20.postimg.org/odduxcbp9/sporttv1.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white] [B] Sport Tv 2 [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
 <link>http://83.78.191.43:2048/</link>
 <thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
 </item>
 
+<item>
+<title>[COLOR white] [B] Sport Tv 2 [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1084675033?ticket=8321C21F2BA783E2A3A85570EA271168968B722E&profile=pass</link>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] Sport Tv 2 HD [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/2130708888?ticket=0BDAC25F2A9410782B293B4DACB2F10212B95F95&profile=pass</link>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Sport Tv 2 HD [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1271191392?ticket=374408789E6085403660F9F7CC1812BFB0CB499E&profile=pass</link>
+<thumbnail>http://s20.postimg.org/5p0enra65/sporttv2.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white] [B] Sport Tv 3 [/B][/COLOR] [COLOR red] [/COLOR]</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1135.ts&amp;name=Sport Tv 3</link>
+<link>http://83.78.44.14:9981/stream/channelid/1630933633?ticket=E1B0152223D16666EFE208AC12A4180622217BD6&profile=pass</link>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Sport Tv 3 HD[/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1571909807?ticket=E468E230670BBCDDFEFF521098B7E9FEAF06F42E&profile=pass</link>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Sport Tv 3 HD[/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/573820556?ticket=020B48AEB101F7CE6CFFBE6AAF0119F7B3161795&profile=pass</link>
+<thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Sport Tv 3 [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2063</link>
 <thumbnail>http://s20.postimg.org/gee3g0lz1/sporttv3.png</thumbnail>
 </item>
 
@@ -37,8 +91,32 @@
 </item>
 
 <item>
+<title>[COLOR white] [B] Porto Canal [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2034</link>
+<thumbnail>http://i.imgur.com/85hGqUs.png</thumbnail>
+</item>
+
+<item>
 <title>[COLOR white] [B] Benfica TV [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
 <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/807.ts&amp;name=Benfica TV</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Benfica TV [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1394635878?ticket=4121DD2EFFBC12D6DCC90C53FA319748BD3EA7BA&profile=pass</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Benfica TV [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1733223477?ticket=08DCB1824176E3C9139CD702A9357609D9B61981&profile=pass</link>
+<thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Benfica TV [/B][/COLOR]  [COLOR red]  [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/979305092?ticket=92E089EBEF8769F50D9F70F4920ED2AA4D505985&profile=pass</link>
 <thumbnail>http://s20.postimg.org/eve3xaq0t/btv1_ver1.png</thumbnail>
 </item>
 
@@ -59,6 +137,63 @@
 <link>http://83.78.191.43:2027/</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Kombat_sport.png</thumbnail>
 </item>
+
+<item>
+<title>[COLOR white] [B] Kombat Sports [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/546775945?ticket=9E29F103FBB8BC813E1307F05007C11C44AA6F12&profile=pass</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Kombat_sport.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] EUROSPORT 1 [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2019</link>
+<thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] EUROSPORT 1 [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2019</link>
+<thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] EUROSPORT 1 [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2019</link>
+<thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] EUROSPORT 1 [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/751114394?ticket=5A13D73480A16F09EAAE78A0F5E8D882DE1EDEA1&profile=pass</link>
+<thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] EUROSPORT 1 HD [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/2038628542?ticket=B4A1908C0B994078B84CCEB97F8FC61345F26358&profile=pass</link>
+<thumbnail>http://lh6.googleusercontent.com/-hU13BnqZ2lE/UgWEyRdj_SI/AAAAAAAABN0/JfVIlRTSc9c/h230/eurosport+live.png</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR white] [B] motors tv [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2031</link>
+<thumbnail>http://1.bp.blogspot.com/-iYWUPy6NlJM/TyVbODodDSI/AAAAAAAABLo/09v_wAFoylY/s1600/Motors+TV+logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Real Madrid TV [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2036</link>
+<thumbnail>http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Real Madrid TV [/B][/COLOR]  [COLOR red] [/COLOR]</title>
+<link>http://83.78.191.43:2036</link>
+<thumbnail>http://i.bssl.es/altaspulsaciones//2012/06/realmadridtv-600x301.png</thumbnail>
+</item>
+
+
 
 
 
