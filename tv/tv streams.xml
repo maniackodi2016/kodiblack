@@ -418,8 +418,14 @@
 <item>
 <title>[COLOR white][B]Historia[/B][/COLOR]</title>
 <sportsdevil>http://www.europeu2016.net/index.php?canal=historia</sportsdevil><referer>http://www.europeu2016.net</referer>
-<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail></item>
+<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
+</item>
 
+<item>
+<title>[COLOR white] [B] Historia [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1360328896?ticket=E31CA4251EF8D16347EE67D201BBD7F82FAE2817&profile=pass</link>
+<thumbnail>http://s20.postimg.org/j9ju0w6yl/historia.png</thumbnail>
+</item>
 
 <item>
 <title>[COLOR white][B] História [/B][/COLOR] HQ</title>
@@ -483,7 +489,7 @@
 
 <item>
 <title>[COLOR white] [B] Caçavision [/B][/COLOR] [COLOR red]  [/COLOR]</title>
-<link></link>
+<link>http://83.78.191.43:2004</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uwpwsv1438005605.png</thumbnail>
 </item>
 
@@ -491,6 +497,24 @@
 <title>[COLOR white] [B] CMTV [/B][/COLOR] [COLOR red] [/COLOR]</title>
 <link>http://83.78.191.43:2012/</link>
 <thumbnail>https://espalhafactos.com/wp-content/uploads/2014/08/Logo-CMTV_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] 24 Kitchen [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/2122327915?ticket=35E267ED79845C26824AB90D84E909E4FB1FD737&profile=pass</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] Globo [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/671568849?ticket=33FBDBECFDAD009F7C0303C53164FB45E948AC3B&profile=pass</link>
+<thumbnail>http://www.fabriq.tv/wp-content/uploads/2015/03/Globo_logo.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] [B] National Geographic HD [/B][/COLOR] [COLOR red] [/COLOR]</title>
+<link>http://83.78.44.14:9981/stream/channelid/1685404866?ticket=215C047AD013AAAFA3538C5A530B75C5D8798C3F&profile=pass</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png</thumbnail>
 </item>
 
 <item>
