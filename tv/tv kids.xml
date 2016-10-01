@@ -36,13 +36,13 @@
 </item>
 <item>
 <title>[COLOR deepskyblue] [B]PANDA BiGGS[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1676.ts&amp;name=PANDA BiGGS</link>
-<thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=&amp;name=PANDA BiGGS</link>
+<thumbnail>http://s32.postimg.org/6l37pawp1/Panda_Biggs.png</thumbnail>http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1676.ts
 </item>
 <item>
 <title>[COLOR deepskyblue] [B]NICKELODEON[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1394.ts&amp;name=NICKELODEON</link>
-<thumbnail>http://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1688.ts&amp;name=NICKELODEON</link>
+<thumbnail>http://www.thelogodb.com/images/media/logo/turwts1438374001.png</thumbnail>http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1688.ts
 </item>
 <item>
 <title>[COLOR deepskyblue] [B]JIM JAM[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
@@ -52,7 +52,7 @@
 
 <item>
 <title>[COLOR deepskyblue] [B]JIM JAM[/B][/COLOR] [COLOR lime] On [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://grandiptv.myftp.org:8000/live/5grandiptv915/67863345/1674.ts&amp;name=JIMAJAM</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1661.ts&amp;name=JIMAJAM</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/yupwrv1435102443.png</thumbnail>
 </item>
 
@@ -70,7 +70,7 @@
  
 <item>
 <title>[COLOR deepskyblue] [B]DISNEY JUNIOR[/B][/COLOR] [COLOR lime] ON [/COLOR] </title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://www.q7t1.com:8000/live/sYKADDaJs2/SnoQc6v4hZ/1213.ts&amp;name=Kodiptvsharing</link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1696.ts&amp;name=Kodiptvsharing</link>
 <thumbnail>http://www.thelogodb.com/images/media/logo/uvsyur1433943132.png</thumbnail>
 </item>
 
